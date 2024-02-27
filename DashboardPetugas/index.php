@@ -76,7 +76,7 @@ if (!isset($_SESSION['username'])) {
                 <img class="img-md rounded-circle" src="../assets/img/muslimm.png" style="width: 35px; height: 20x;" alt="Profile image">
                 <p class="mb-1 mt-3 font-weight-semibold"><span class="text-capitalize text-black fw-bold"><?php echo $_SESSION['username']; ?></span></h1>
                 </p>
-                <p class="fw-bold text-muted mb-0">Admin</p>
+                <p class="fw-bold text-muted mb-0">Petugas</p>
               </div>
               <a class="dropdown-item" href="signOut.php"> <i class="dropdown-item-icon mdi mdi-power text-primary me-2"></i>Sign Out</a>
             </div>

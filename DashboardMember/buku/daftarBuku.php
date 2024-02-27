@@ -46,7 +46,7 @@ if (isset($_POST["search"])) {
 </head>
 <style>
   body {
-    background: url('../../assets/img/bggg.jpg') no-repeat center center fixed;
+    background: url('../../assets/img/perpus4.jpg') no-repeat center center fixed;
     background-size: cover;
   }
 </style>
@@ -99,13 +99,13 @@ if (isset($_POST["search"])) {
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="../../assets/img/bok1.jpg" class="d-block w-100 " style="height: 300px;" alt="buku.jpg">
+          <img src="../../assets/img/perpus1.jpeg" class="d-block w-100 " style="height: 300px;" alt="buku.jpg">
         </div>
         <div class="carousel-item">
-          <img src="../../assets/img/bok3.jpg" class="d-block w-100 " style="height: 300px;"alt="buku2.jpg">
+          <img src="../../assets/img/perpus2.jpeg" class="d-block w-100 " style="height: 300px;"alt="buku2.jpg">
         </div>
         <div class="carousel-item">
-          <img src="../../assets/img/bok4.jpg" class="d-block w-100 " style="height: 300px;"alt="buku3.jpg">
+          <img src="../../assets/img/perpus3.jpeg" class="d-block w-100 " style="height: 300px;"alt="buku3.jpg">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
