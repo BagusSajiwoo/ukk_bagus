@@ -43,6 +43,12 @@ if (!isset($_SESSION['username'])) {
   <!-- endinject -->
   <link rel="shortcut icon" href="../assets/dashboard/images/favicon.png" />
 
+  <style>
+  body{
+    background-color: url ('#0000FF');
+  }
+  </style>
+
 <body>
   <div class="container-scroller">
     <!-- partial:partials/_navbar.html -->
